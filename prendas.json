@@ -1,0 +1,14 @@
+[
+    { "id": 1, "nombre": "Remera", "precio": 1000, "imagen": "./assets/remera.avif" },
+    { "id": 2, "nombre": "Pantalon", "precio": 2000, "imagen": "./assets/pantalones.jpg" },
+    { "id": 3, "nombre": "Campera", "precio": 3000, "imagen": "./assets/campera.jpg" },
+    { "id": 4, "nombre": "Zapatillas", "precio": 4000, "imagen": "./assets/zapatos.webp" },
+    { "id": 5, "nombre": "Gorra", "precio": 500, "imagen": "./assets/gorra.jpg" },
+    { "id": 6, "nombre": "Bufanda", "precio": 700, "imagen": "./assets/bufanda.jfif" },
+    { "id": 7, "nombre": "Guantes", "precio": 800, "imagen": "./assets/guantes.jpg" },
+    { "id": 8, "nombre": "Cinturón", "precio": 600, "imagen": "./assets/cinturon.jpg" },
+    { "id": 9, "nombre": "Calcetines", "precio": 300, "imagen": "./assets/calcetines.jpg" },
+    { "id": 10, "nombre": "Sombrero", "precio": 1200, "imagen": "./assets/sombrero.png" },
+    { "id": 11, "nombre": "Chaleco", "precio": 2500, "imagen": "./assets/chaleco.jpg" },
+    { "id": 12, "nombre": "Falda", "precio": 1500, "imagen": "./assets/falda.jpg" }
+]
